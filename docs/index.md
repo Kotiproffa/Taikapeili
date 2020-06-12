@@ -1,7 +1,7 @@
 ---
 title: Etusivu
 last_updated: 12.06.2020
-sidebar: Etusivu
+sidebar: sidebar-nav
 permalink: index.html
 ---
 # Taikapeili
