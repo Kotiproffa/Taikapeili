@@ -1,4 +1,13 @@
 theme: jekyll-theme-cayman
 
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+        
 # See configuration options below
 # https://jekyllrb.com/docs/configuration/
