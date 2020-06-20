@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Taikapeili
+site_dir: ../docs
+site_url: https://kotiproffa.github.io/Taikapeili/
+repo_url: https://github.com/Kotiproffa/Taikapeili
+site_description: Maagisen taikapeilin rakennusohjeet ja esittely.
+site_author: Juha Panu
+edit_uri: https://github.com/Kotiproffa/Taikapeili/tree/master/mkdocs/docs

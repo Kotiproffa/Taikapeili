@@ -1,17 +1,2 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Taikapeili
+Taikapeili (eng. Magic Mirror tai Smart Mirror) on peili, jonka pintaan voi heijastaa valokuvioita. Käytännössä peilin takana on näyttö, jossa varsinainen kuva esitetään. Mikä tahansa peili ei käy, vaan tarvitaan tiettyjä materiaaleja.
